@@ -1,0 +1,77 @@
+/*h1 {text-align: center;}
+div {
+    text-align: center;
+}
+*/
+.myrows{
+    /* border: 3px solid rgb(0, 0, 0);*/ 
+}
+
+.mycols{
+    /*border: 3px solid red;*/
+}
+
+.mycontainer{
+    background-color: rgba(0, 255, 255, 0.322);
+}
+
+.message{
+    background-color: lightsalmon;
+}
+
+#topheader{
+    background-color: rgba(231, 238, 245, 0.295);
+    border-bottom: 1px solid rgba(8, 8, 7, 0.192);
+}
+
+#topheader a{
+    color:  #2f3640;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+#bottomheader a{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    /*color:  rgb(255, 103, 103);*/
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a{
+    font-size: 1em;
+    font-weight: 600;
+}
+
+/* Start of Footer */
+.full-footer{
+    background-color: rgba(255, 0, 0, 0.596);
+}
+
+.top-footer p{
+    color:black;
+}
+
+.top-footer a{
+    color: rgb(66, 4, 16) ;
+    
+}
+
+.top-footer h3{
+    color: rgb(66, 4, 16) ;
+}
+
+.bottom-footer{
+    background-color: rgb(66, 4, 16);
+}
+
+.bottom-footer p{
+    text-align: center;
+    color:whitesmoke;
+    padding-bottom: 0%;
+    font-size: 0.8rem;
+}
+/* End of Footer */
